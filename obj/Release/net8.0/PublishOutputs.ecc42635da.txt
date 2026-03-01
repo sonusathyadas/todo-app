@@ -1,0 +1,7 @@
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\TodoApp.exe
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\appsettings.Development.json
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\appsettings.json
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\TodoApp.dll
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\TodoApp.deps.json
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\TodoApp.runtimeconfig.json
+C:\Users\sonusathyadas\Desktop\TodoApp\TodoApp\publish\TodoApp.pdb
